@@ -168,4 +168,6 @@ Empty
 </tbody>
       </table>
 
-> 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+</br>
+
+# [나의 정답](https://github.com/SeungHakk/Programmers/blob/52597c63d41f010ed9e2b6dd664b38151820abb3/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/4/131116.%E2%80%85%EC%8B%9D%ED%92%88%EB%B6%84%EB%A5%98%EB%B3%84%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EB%B9%84%EC%8B%BC%E2%80%85%EC%8B%9D%ED%92%88%EC%9D%98%E2%80%85%EC%A0%95%EB%B3%B4%E2%80%85%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0/%EC%8B%9D%ED%92%88%EB%B6%84%EB%A5%98%EB%B3%84%E2%80%85%EA%B0%80%EC%9E%A5%E2%80%85%EB%B9%84%EC%8B%BC%E2%80%85%EC%8B%9D%ED%92%88%EC%9D%98%E2%80%85%EC%A0%95%EB%B3%B4%E2%80%85%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
