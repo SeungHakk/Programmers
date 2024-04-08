@@ -169,4 +169,7 @@ Empty
 <p>본 문제는 <a href="https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-intakes-and-outcomes" target="_blank" rel="noopener">Kaggle의 "Austin Animal Center Shelter Intakes and Outcomes"</a>에서 제공하는 데이터를 사용하였으며 <a href="https://opendatacommons.org/licenses/odbl/1.0/" target="_blank" rel="noopener">ODbL</a>의 적용을 받습니다.</p>
 
 
-> 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+</br>
+
+
+# [나의 정답](https://github.com/SeungHakk/Programmers/blob/2b1270f391c026db37905e1e60bf1d0d349f9a9f/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/4/59413.%E2%80%85%EC%9E%85%EC%96%91%E2%80%85%EC%8B%9C%EA%B0%81%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%EF%BC%882%EF%BC%89/%EC%9E%85%EC%96%91%E2%80%85%EC%8B%9C%EA%B0%81%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0%EF%BC%882%EF%BC%89.sql)
