@@ -229,4 +229,6 @@ Empty
 </div>
 
 
-> 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+</br>
+
+# [나의 정답](https://github.com/SeungHakk/Programmers/blob/d24ec201bdcdba62f2ac303824a7f4f76d8a8060/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/4/59045.%E2%80%85%EB%B3%B4%ED%98%B8%EC%86%8C%EC%97%90%EC%84%9C%E2%80%85%EC%A4%91%EC%84%B1%ED%99%94%ED%95%9C%E2%80%85%EB%8F%99%EB%AC%BC/%EB%B3%B4%ED%98%B8%EC%86%8C%EC%97%90%EC%84%9C%E2%80%85%EC%A4%91%EC%84%B1%ED%99%94%ED%95%9C%E2%80%85%EB%8F%99%EB%AC%BC.sql)
