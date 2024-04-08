@@ -347,4 +347,6 @@ Empty
 </tbody>
       </table>
 
-> 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
+</br>
+
+# [나의 정답](https://github.com/SeungHakk/Programmers/blob/90db67de41107daf6f3c0e652efb7ddaf0e02f0b/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/4/132204.%E2%80%85%EC%B7%A8%EC%86%8C%EB%90%98%EC%A7%80%E2%80%85%EC%95%8A%EC%9D%80%E2%80%85%EC%A7%84%EB%A3%8C%E2%80%85%EC%98%88%EC%95%BD%E2%80%85%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0/%EC%B7%A8%EC%86%8C%EB%90%98%EC%A7%80%E2%80%85%EC%95%8A%EC%9D%80%E2%80%85%EC%A7%84%EB%A3%8C%E2%80%85%EC%98%88%EC%95%BD%E2%80%85%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0.sql)
